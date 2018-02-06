@@ -1,0 +1,10 @@
+﻿  view.cpp
+  ShaderLoader.cpp
+  scene.cpp
+  mesh.cpp
+  main.cpp
+c:\users\user\desktop\106上 課程\計圖\hw\hw3\hw3_ver2\hw3\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  light.cpp
+  正在產生程式碼...
+  HW2.vcxproj -> C:\Users\user\Desktop\106上 課程\計圖\HW\HW3\HW3_ver2\HW3\Debug\HW2.exe
+  HW2.vcxproj -> C:\Users\user\Desktop\106上 課程\計圖\HW\HW3\HW3_ver2\HW3\Debug\HW2.pdb (Partial PDB)

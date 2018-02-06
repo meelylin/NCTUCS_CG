@@ -1,0 +1,15 @@
+no-texture
+model MirrorWall.obj 10 0.8 1.0 90.0 0.0 1.0 0.0 -35.5 34.5 -1.0
+model MirrorWall.obj 10 0.8 1.0 90.0 0.0 1.0 0.0 -35.5 -1.75 -1.0
+model MirrorWall.obj 10 0.8 1.0 90.0 0.0 1.0 0.0 45.0 34.5 -1.0
+model MirrorWall.obj 10 0.8 1.0 90.0 0.0 1.0 0.0 45.0 -1.75 -1.0
+model MirrorWall_Floor.obj 8.5 11.0 5.0 90.0 1.0 0.0 0.0 0 18.0 -50
+model MirrorWall_Floor.obj 8.5 11.0 5.0 90.0 1.0 0.0 0.0 0 -25.0 -50
+model MirrorWall_left_right.obj 10.0 5.0 10.0 0.0 0.0 1.0 0.0 0 -2.0 1.0
+model MirrorWall_left_right.obj 10.0 5.0 10.0 0.0 0.0 1.0 0.0 0 -2.0 95.0
+no-texture
+model dice.obj 3.0 3.0 3.0 40.0 0.0 1.0 0.0 -10.0 12.0 0.0
+model table.obj 20.0 15.0 20.0 0.0 0.0 1.0 0.0 -15.0 7.0 0.0
+model Mirror.obj 1.0 0.75 1.2 0.0 0.0 1.0 0.0 0.0 5.0 0.0
+model Mirror.obj 1.0 0.75 1.2 180.0 0.0 1.0 0.0 0.0 5.0 0.0
+
