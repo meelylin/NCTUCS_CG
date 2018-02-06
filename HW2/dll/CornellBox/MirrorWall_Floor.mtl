@@ -1,0 +1,12 @@
+# Blender MTL File: 'Test2.blend'
+# Material Count: 1
+
+newmtl MediumGrey.003
+Ns 5.882353
+Ka 0.8000000 1.000000 0.800000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
